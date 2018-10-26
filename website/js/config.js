@@ -23,8 +23,8 @@ const intro_content = 'intro';
 const search_content = 'search';
 
 // Homepage Link
-const homepage_url = "https://github.com/jcs090218/API-Reference-Template";  // The actual link to your homepage.
-const homepage_text = "api-ref-tem.github";  // Text to show on the browser
+const homepage_url = "https://github.com/jcs090218/JCSUE";  // The actual link to your homepage.
+const homepage_text = "JCSUE.github";  // Text to show on the browser
 
 
 // Content extension to load.
