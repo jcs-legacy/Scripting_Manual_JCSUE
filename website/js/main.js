@@ -450,10 +450,12 @@
         {
           let manualName = $('.manual-name');
           let versionManual = $('.version-manual');
+          let versionUnreal = $('.version-unreal');
           let copyright = $('.copyright');
           let homepageLink = $('.homepage-link');
 
           manualName.text(manual_name);
+          versionUnreal.text(version_unreal);
           versionManual.text(version_manual);
           copyright.text(copyright_text);
           homepageLink.text(homepage_text);
