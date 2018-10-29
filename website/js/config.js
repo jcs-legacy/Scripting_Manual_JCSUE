@@ -13,6 +13,7 @@
 // Manual config.
 const manual_name = "JCSUE";
 const version_manual = "0.0.1";
+const version_unreal = "4.14.3";
 
 // Copyright text to show on the website.
 const copyright_text = "Copyright © 2018 JCSUE Group. Built: 2018-10-26.";
