@@ -12,8 +12,23 @@
 
 // Manual config.
 const manual_name = "JCSUE";
-const version_manual = "0.0.1";
-const version_unreal = "4.14.3";
+
+// Version config.
+const version_title_01 = "JCSUE Version: ";
+const version_title_02 = "Unreal Version: ";
+const version_title_03 = "";
+const version_title_04 = "";
+const version_title_05 = "";
+const version_title_06 = "";
+const version_title_07 = "";
+
+const version_num_01 = "0.0.1";
+const version_num_02 = "4.14.3";
+const version_num_03 = "";
+const version_num_04 = "";
+const version_num_05 = "";
+const version_num_06 = "";
+const version_num_07 = "";
 
 // Copyright text to show on the website.
 const copyright_text = "Copyright © 2018 JCSUE Group. Built: 2018-10-26.";
