@@ -4,7 +4,8 @@
 
 # Scripting Manual - JCSUE #
 
-Scripting manual website for JCSUE API. <br/><br/>
+Scripting manual website for JCSUE API. 
+
 
 ## Links ##
 * *Website* : <a href="http://www.jcs-profile.com:3003">JCSUE-Scripting-Manual</a>
