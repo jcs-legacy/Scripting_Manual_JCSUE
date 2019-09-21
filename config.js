@@ -13,7 +13,7 @@
 const DEBUG = false;  // Debug mode?
 
 const HOST = "localhost";  // Host [Default: localhost]
-const PORT = 3003;         // Server Port [Default: 3000]
+const PORT = 3000;         // Server Port [Default: 3000]
 
 const WEBSITE_DIR = "website";
 
@@ -30,7 +30,7 @@ const SORT_ORDER = 'directory';
 // config file.
 //
 // SEE : ./website/js/config.js
-const CONTENT_EXTENSION = /\.html/;
+const CONTENT_EXTENSION = /\.md/;
 
 //------------------ Exports modules ------------------//
 
