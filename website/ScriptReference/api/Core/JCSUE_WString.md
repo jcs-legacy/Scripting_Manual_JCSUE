@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>JCSUE_WString</h1>
-</div>
+# JCSUE_WString
 
-<p>
-  Wide string, wide char arrau, wide char pointer related helper.
-</p>
+Wide string, wide char arrau, wide char pointer related helper.

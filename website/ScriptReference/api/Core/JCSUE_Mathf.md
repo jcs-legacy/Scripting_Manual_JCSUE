@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>JCSUE_Mathf</h1>
-</div>
+# JCSUE_Mathf
 
-<p>
-  Math function util.
-</p>
+Math function util.

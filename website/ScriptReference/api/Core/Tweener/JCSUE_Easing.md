@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>JCSUE_Easing</h1>
-</div>
+# JCSUE_Easing
 
-<p>
-  Store all the easing math here.
-</p>
+Store all the easing math here.
 
 
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

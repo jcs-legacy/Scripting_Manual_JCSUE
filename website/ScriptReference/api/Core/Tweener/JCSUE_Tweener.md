@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>JCSUE_Tweener</h1>
-</div>
+# JCSUE_Tweener
 
-<p>
-  Controller of the easing class.
-</p>
+Controller of the easing class.

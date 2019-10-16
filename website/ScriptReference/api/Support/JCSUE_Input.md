@@ -1,25 +1,9 @@
-<!--
-   - $File: JCSUE_Input.html $
-   - $Date: 2018-10-28 01:00:22 $
-   - $Revision: $
-   - $Creator: Jen-Chieh Shen $
-   - $Notice: See LICENSE.txt for modification and distribution information
-   -                   Copyright © 2018 by Shen, Jen-Chieh $
--->
+# JCSUE_Input
+
+Handle input buffer from application layer.
 
 
-<div id="content-header">
-  <h1>JCSUE_Input</h1>
-</div>
-
-<p>
-  Handle input buffer from application layer.
-</p>
-
-
-<br/>
-<h2>Functions</h2>
-<br/>
+## Functions
 
 <table>
   <tr>

@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>JCSUE_Axis</h1>
-</div>
+# JCSUE_Axis
 
-<p>
-  x, y, z, axis.
-</p>
+x, y, z, axis.

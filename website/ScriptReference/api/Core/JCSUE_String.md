@@ -1,7 +1,3 @@
-<div id="content-header">
-  <h1>JCSUE_String</h1>
-</div>
+# JCSUE_String
 
-<p>
-  String, char pointer, char array related helper.
-</p>
+String, char pointer, char array related helper.

@@ -1,15 +1,9 @@
-<div id="content-header">
-  <h1>JCSUE_RotateAction</h1>
-</div>
+# JCSUE_RotateAction
 
-<p>
-  Component to do rotate action.
-</p>
+Component to do rotate action.
 
 
-<br/>
-<h2>Variables</h2>
-<br/>
+## Variables
 
 <table>
   <tr>
