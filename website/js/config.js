@@ -13,6 +13,9 @@
 // Manual config.
 const manual_name = "JCSUE";
 
+const header_color = '#2A2A2A';
+const arrow_color = '#19E3B1';
+
 // Version config.
 const version_title_01 = "JCSUE Version: ";
 const version_title_02 = "Unreal Version: ";
