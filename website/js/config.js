@@ -9,14 +9,15 @@
 
 "use strict";
 
-
-// Manual config.
+// Manual
 const manual_name = "JCSUE";
 
+// Theme
 const header_color = '#2A2A2A';
 const arrow_color = '#19E3B1';
+const th_color = '#A2F2DE';
 
-// Version config.
+// Version Information
 const version_title_01 = "JCSUE Version: ";
 const version_title_02 = "Unreal Version: ";
 const version_title_03 = "";
