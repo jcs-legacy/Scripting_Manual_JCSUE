@@ -2,20 +2,10 @@
 
 Component to do rotate action.
 
-
 ## Variables
 
-<table>
-  <tr>
-    <td>m_active</td>
-    <td>Is this component active?</td>
-  </tr>
-  <tr>
-    <td>m_rotateSpeed</td>
-    <td>How fast this component rotate?</td>
-  </tr>
-  <tr>
-    <td>m_axis</td>
-    <td>Rotate on which axis?</td>
-  </tr>
-</table>
+| Name | Description |
+|:---|:---|
+| m_active | Is this component active? |
+| m_rotateSpeed | How fast this component rotate. |
+| m_axis | Rotate on which axis. |
