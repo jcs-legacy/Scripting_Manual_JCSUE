@@ -1,3 +1,3 @@
 # JCSUE_Plugin
 
-# UE generated plugin entry.
+UE generated plugin entry.
