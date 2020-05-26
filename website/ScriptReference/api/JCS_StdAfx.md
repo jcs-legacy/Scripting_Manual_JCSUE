@@ -1,3 +1,3 @@
-# JCSUE_StdAfx
+# JCS_StdAfx
 
 Standard utility definition.

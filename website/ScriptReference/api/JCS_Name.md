@@ -1,3 +1,3 @@
-# JCSUE_Name
+# JCS_Name
 
 Standard type definition.

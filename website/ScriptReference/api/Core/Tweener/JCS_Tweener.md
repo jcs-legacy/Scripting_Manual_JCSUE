@@ -1,3 +1,3 @@
-# JCSUE_Tweener
+# JCS_Tweener
 
 Controller of the easing class.

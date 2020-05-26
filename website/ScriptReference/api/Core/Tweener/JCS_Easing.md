@@ -1,4 +1,4 @@
-# JCSUE_Easing
+# JCS_Easing
 
 Store all the easing math here.
 

@@ -1,3 +1,3 @@
-# JCSUE_Character
+# JCS_Character
 
 Character that recived input.

@@ -1,3 +1,3 @@
-# JCSUE_Mathf
+# JCS_Mathf
 
 Math function util.

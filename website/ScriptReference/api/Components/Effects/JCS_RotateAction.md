@@ -1,4 +1,4 @@
-# JCSUE_RotateAction
+# JCS_RotateAction
 
 Component to do rotate action.
 
