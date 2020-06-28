@@ -6,6 +6,6 @@ Component to do rotate action.
 
 | Name | Description |
 |:---|:---|
-| m_active | Is this component active? |
-| m_rotateSpeed | How fast this component rotate. |
-| m_axis | Rotate on which axis. |
+| active | Is this component active? |
+| rotateSpeed | How fast this component rotate. |
+| axis | Rotate on which axis. |
